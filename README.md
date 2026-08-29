@@ -1,2 +1,2 @@
-# 8byte-Technical-Assignment
+# Devops-Technical-Assignment
 end to end AWS DevOps Technical Assignment
